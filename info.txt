@@ -1,0 +1,462 @@
+"ID" "Extended_P2_Music"
+"Name" "Extended Portal 2 Music Soundtrack"
+"Desc" "Extended Portal 2 Music Soundtrack!"
+//Extended Portal 2 SoundTrack
+"Music"
+{
+	"ID" "EP2_1"
+	"Name" "Reconstructing More Science"
+	"ShortName" "More Science"
+	"Sort_key" "1"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/reconstructing_more_science"
+	"IconLarge" "music_lrg/reconstructing_more_science"
+	"Authors" "Valve"
+	"Description" "This song plays in the final cutscene on the elevator up and stops before the red door opens."
+	"Sample" "soundtrack/01-Reconstructing_More_Science.ogg"
+	"loop_len" "2:36"
+	"SoundScript" "BEE2/p2_music/01-Reconstructing_More_Science.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_2"
+	"Name" "Science is Fun"
+	"ShortName" "Science is Fun"
+	"Sort_key" "2"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/science_is_fun"
+	"IconLarge" "music_lrg/science_is_fun"
+	"Authors" "Valve"
+	"Description" "This song plays in the promotional Portal 2 trailer for coop mode."
+	"Sample" "soundtrack/01-Science_is_Fun.ogg"
+	"loop_len" "2:33"
+	"SoundScript" "BEE2/p2_music/01-Science_is_Fun.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_3"
+	"Name" "You Will Be Perfect"
+	"ShortName" "You Will Be Perfect"
+	"Sort_key" "3"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "You Will Be Perfect duration 2:39."
+	"Sample" "soundtrack/01-You_Will_Be_Perfect.ogg"
+	"loop_len" "2:39"
+	"SoundScript" "BEE2/p2_music/01-You_Will_Be_Perfect.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_4"
+	"Name" "Concentration Enhancing Menu Initialiser"
+	"ShortName" "Enhancing Menu"
+	"Sort_key" "4"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Concentration Enhancing Menu Initialiser duration: 2:16."
+	"Sample" "soundtrack/02-Concentration_Enhancing_Menu_Initialiser.ogg"
+	"loop_len" "2:16"
+	"SoundScript" "BEE2/p2_music/02-Concentration_Enhancing_Menu_Initialiser.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_5"
+	"Name" "Wheatley Science"
+	"ShortName" "Wheatley Science"
+	"Sort_key" "5"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/wheatley_science"
+	"IconLarge" "music_lrg/wheatley_science"
+	"Authors" "Valve"
+	"Description" "Music that plays just before entering Wheatly's lair."
+	"Sample" "soundtrack/02-Wheatley_Science.ogg"
+	"loop_len" "2:29"
+	"SoundScript" "BEE2/p2_music/02-Wheatley_Science.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_6"
+	"Name" "Bots Build Bots"
+	"ShortName" "Bots Build Bots"
+	"Sort_key" "6"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "The main menu music for a new Portal 2 game save."
+	"Sample" "soundtrack/03-Bots_Build_Bots.ogg"
+	"loop_len" "4:07"
+	"SoundScript" "BEE2/p2_music/03-Bots_Build_Bots.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_7"
+	"Name" "Excursion Funnel"
+	"ShortName" "Excursion Funnel"
+	"Sort_key" "7"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Excursion Funnel duration: 4:32. used for excursion funnel music"
+	"Sample" "soundtrack/05-Excursion_Funnel.ogg"
+	"loop_len" "4:32"
+	"SoundScript"
+	{
+		"tBeam" "BEE2/p2_music/05-Excursion_Funnel.mp3"
+		"BounceGel" "BEE2/p2_music/05-Excursion_Funnel.mp3"
+		"SpeedGel" "BEE2/p2_music/05-Excursion_Funnel.mp3"
+	}
+}
+
+"Music"
+{
+	"ID" "EP2_8"
+	"Name" "The Part Where He Kills You"
+	"ShortName" "The Part Where"
+	"Sort_key" "8"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/the_part_where_he_kills_you"
+	"IconLarge" "music_lrg/the_part_where_he_kills_you"
+	"Authors" "Valve"
+	"Description" "This song plays after Wheatley attempts to trick you with a trap where he tries to kill you with mashy spike plates."
+	"Sample" "soundtrack/07-The_Part_Where_He_Kills_You.ogg"
+	"loop_len" "3:23"
+	"SoundScript" "BEE2/p2_music/07-The_Part_Where_He_Kills_You.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_9"
+	"Name" "Bombs for Throwing at You"
+	"ShortName" "Bombs for Throwing"
+	"Sort_key" "9"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/bombs_for_throwing_at_you"
+	"IconLarge" "music_lrg/bombs_for_throwing_at_you"
+	"Authors" "Valve"
+	"Description" "Plays during the start of the battle with Wheatley where he starts throwing bombs at you."
+	"Sample" "soundtrack/09-Bombs_for_Throwing_at_You.ogg"
+	"loop_len" "5:48"
+	"SoundScript" "BEE2/p2_music/09-Bombs_for_Throwing_at_You.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_10"
+	"Name" "Dont Do It"
+	"ShortName" "Dont Do It"
+	"Sort_key" "10"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/dont_do_it"
+	"IconLarge" "music_lrg/dont_do_it"
+	"Authors" "Valve"
+	"Description" "This song plays when you have to put Wheatley into the core transfer recepticle."
+	"Sample" "soundtrack/10-Dont_Do_It.ogg"
+	"loop_len" "5:16"
+	"SoundScript" "BEE2/p2_music/10-Dont_Do_It.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_11"
+	"Name" "Your Precious Moon"
+	"ShortName" "Precious Moon"
+	"Sort_key" "11"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/your_precious_moon"
+	"IconLarge" "music_lrg/your_precious_moon"
+	"Authors" "Valve"
+	"Description" "This music plays during the last part of the battle with Wheatley in his lair after the stalemate resolution annex is destroyed by Wheatley."
+	"Sample" "soundtrack/10-Your_Precious_Moon.ogg"
+	"loop_len" "1:55"
+	"SoundScript" "BEE2/p2_music/10-Your_Precious_Moon.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_12"
+	"Name" "Caroline Deleted"
+	"ShortName" "Caroline Deleted"
+	"Sort_key" "12"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/caroline_deleted"
+	"IconLarge" "music_lrg/caroline_deleted"
+	"Authors" "Valve"
+	"Description" "Caroline delted. Goodbye, Caroline."
+	"Sample" "soundtrack/11-Caroline_Deleted.ogg"
+	"loop_len" "1:50"
+	"SoundScript" "BEE2/p2_music/11-Caroline_Deleted.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_13"
+	"Name" "I AM NOT A MORON"
+	"ShortName" "NOT A MORON"
+	"Sort_key" "13"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/im_not_a_moron"
+	"IconLarge" "music_lrg/im_not_a_moron"
+	"Authors" "Valve"
+	"Description" "This music plays after Wheatley replaced GLaDOS after the core transfer procedure and takes control of the facility."
+	"Sample" "soundtrack/11-I_AM_NOT_A_MORON.ogg"
+	"loop_len" "3:46"
+	"SoundScript" "BEE2/p2_music/11-I_AM_NOT_A_MORON.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_14"
+	"Name" "You Know Her?"
+	"ShortName" "You Know Her?"
+	"Sort_key" "14"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/you_know_her"
+	"IconLarge" "music_lrg/you_know_her"
+	"Authors" "Valve"
+	"Description" "This song plays when you awake GLaDOS by accident."
+	"Sample" "soundtrack/11-You_Know_Her.ogg"
+	"loop_len" "3:10"
+	"SoundScript" "BEE2/p2_music/11-You_Know_Her.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_15"
+	"Name" "Cara Mia Addio"
+	"ShortName" "Cara Mia Addio"
+	"Sort_key" "15"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/cara_mia_addio"
+	"IconLarge" "music_lrg/cara_mia_addio"
+	"Authors" "Valve"
+	"Description" "This is the song sung by the turrets during the ending cutscene."
+	"Sample" "soundtrack/12-Cara_Mia_Addio.ogg"
+	"loop_len" "2:33"
+	"SoundScript" "BEE2/p2_music/12-Cara_Mia_Addio.mp3"
+}
+
+
+"Music"
+{
+	"ID" "EP2_16"
+	"Name" "15 Acres of Broken Glass"
+	"ShortName" "Broken Glass"
+	"Sort_key" "16"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "15 Acres of Broken Glass duration 4:59."
+	"Sample" "soundtrack/13-15_Acres_of_Broken_Glass.ogg"
+	"loop_len" "4:59"
+	"SoundScript" "BEE2/p2_music/13-15_Acres_of_Broken_Glass.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_17"
+	"Name" "Want You Gone"
+	"ShortName" "Want You Gone"
+	"Sort_key" "17"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Want You Gone duration 2:21."
+	"Sample" "soundtrack/13-Want_You_Gone.ogg"
+	"loop_len" "2:21"
+	"SoundScript" "BEE2/p2_music/13-Want_You_Gone.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_18"
+	"Name" "Hard Sunshine"
+	"ShortName" "Hard Sunshine"
+	"Sort_key" "18"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Hard Sunshine duration: 2:48."
+	"Sample" "soundtrack/16-Hard_Sunshine.ogg"
+	"loop_len" "2:48"
+	"SoundScript"
+	{
+		"tBeam" "BEE2/p2_music/16-Hard_Sunshine.mp3"
+		"BounceGel" "BEE2/p2_music/16-Hard_Sunshine.mp3"
+	}
+}
+
+"Music"
+{
+	"ID" "EP2_19"
+	"Name" "PotatOS Lament"
+	"ShortName" "PotatOS Lament"
+	"Sort_key" "19"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "PotatOS Lament duration: 1:59."
+	"Sample" "soundtrack/16-PotatOS_Lament.ogg"
+	"loop_len" "1:59"
+	"SoundScript" "BEE2/p2_music/16-PotatOS_Lament.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_20"
+	"Name" "Some Assembly Required"
+	"ShortName" "Some Assembly Required"
+	"Sort_key" "20"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Some Assembly Required duration: 1:50."
+	"Sample" "soundtrack/16-Some_Assembly_Required.ogg"
+	"loop_len" "1:50"
+	"SoundScript"
+	{
+		"tBeam" "BEE2/p2_music/16-Some_Assembly_Required.mp3"
+		"BounceGel" "BEE2/p2_music/16-Some_Assembly_Required.mp3"
+		"SpeedGel" "BEE2/p2_music/16-Some_Assembly_Required.mp3"
+	}
+}
+
+"Music"
+{
+	"ID" "EP2_21"
+	"Name" "Adrenal Vapor"
+	"ShortName" "Adrenal Vapor"
+	"Sort_key" "21"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Adrenal Vapor duration: 2:36."
+	"Sample" "soundtrack/18-Adrenal_Vapor.ogg"
+	"loop_len" "2:36"
+	"SoundScript" "BEE2/p2_music/18-Adrenal_Vapor.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_22"
+	"Name" "Turret Wife Serenade"
+	"ShortName" "Turret Wife Serenade"
+	"Sort_key" "22"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Turret Wife Serenade duration: 1:38."
+	"Sample" "soundtrack/19-Turret_Wife_Serenade.ogg"
+	"loop_len" "1:38"
+	"SoundScript" "BEE2/p2_music/19-Turret_Wife_Serenade.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_23"
+	"Name" "I Am Different"
+	"ShortName" "I Am Different"
+	"Sort_key" "23"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "I Am Different duration: 4:28."
+	"Sample" "soundtrack/17-I_Am_Different.ogg"
+	"loop_len" "4:28"
+	"SoundScript" "BEE2/p2_music/17-I_Am_Different.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_24"
+	"Name" "I Made It All Up"
+	"ShortName" "I Made It All Up"
+	"Sort_key" "24"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "This song plays on the main menu after completing Portal 2."
+	"Sample" "soundtrack/20-I_Made_It_All_Up.ogg"
+	"loop_len" "3:56"
+	"SoundScript"
+	{
+		"tBeam" "BEE2/p2_music/20-I_Made_It_All_Up.mp3"
+		"base" "BEE2/p2_music/20-I_Made_It_All_Up.mp3"
+		"BounceGel" "BEE2/p2_music/20-I_Made_It_All_Up.mp3"
+		"SpeedGel" "BEE2/p2_music/20-I_Made_It_All_Up.mp3"
+	}
+}
+
+"Music"
+{
+	"ID" "EP2_25"
+	"Name" "Triple Laser Phase"
+	"ShortName" "Triple Laser Phase"
+	"Sort_key" "25"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Triple Laser Phase Time duration: 4:15."
+	"Sample" "soundtrack/22-Triple_Laser_Phase.ogg"
+	"loop_len" "4:15"
+	"SoundScript" "BEE2/p2_music/22-Triple_Laser_Phase.mp3"
+}
+
+"Music"
+{
+	"ID" "EP2_26"
+	"Name" "You Saved Science"
+	"ShortName" "You Saved Science"
+	"Sort_key" "26"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/you_saved_science"
+	"IconLarge" "music_lrg/you_saved_science"
+	"Authors" "Valve"
+	"Description" "This song is played during the final cutscene of the coop course when you've completed coop mode."
+	"Sample" "soundtrack/23-You_Saved_Science.ogg"
+	"loop_len" "0:47"
+	"SoundScript" 
+	{
+		"tBeam" "BEE2/p2_music/23-You_Saved_Science.mp3"
+		"base" "BEE2/p2_music/23-You_Saved_Science.mp3"
+		"BounceGel" "BEE2/p2_music/23-You_Saved_Science.mp3"
+		"SpeedGel" "BEE2/p2_music/23-You_Saved_Science.mp3"
+	}
+}
+
+"Music"
+{
+	"ID" "EP2_27"
+	"Name" "Robots FTW"
+	"ShortName" "Robots FTW"
+	"Sort_key" "27"
+	"Group" "Extended Soundtrack"
+	"Icon" "music/songs_to_test_by"
+	"IconLarge" "music_lrg/songs_to_test_by"
+	"Authors" "Valve"
+	"Description" "Robots FTW Time duration: 3:38."
+	"Sample" "soundtrack/24-Robots_FTW.ogg"
+	"loop_len" "3:38"
+	"SoundScript" "BEE2/p2_music/24-Robots_FTW.mp3"
+}
