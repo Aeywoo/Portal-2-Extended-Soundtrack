@@ -1,4 +1,4 @@
-# Portal-2-Extended-Soundtrack-BEE-2.4
+# Portal-2-Extended-Soundtrack
 
 This addon is a collection of 25 Portal 2 songs from the official Songs to Test By Soundtrack for BEE 2.4!
 
